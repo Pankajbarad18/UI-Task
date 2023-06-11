@@ -1,0 +1,47 @@
+{
+    "prog":[
+        {
+            "img":"lib/Images/lesson.jpg",
+            "Title":"LIFESTYLE",
+            "desc":"A complete guide for your new born baby",
+            "small":"16 lessons"
+        },
+        {
+            "img":"lib/Images/lesson.jpg",
+            "Title":"Working Parents",
+            "desc":"Understanding of human behaviour",
+            "small":"12 lessons"
+        }
+    ],
+    
+    "event":[
+        {
+            "img":"lib/Images/yoga.jpg",
+            "Title":"BABYCARE",
+            "desc":"Understanding of human behaviour",
+            "small":"13 Feb, Sunday"
+        },
+        {
+            "img":"lib/Images/yoga.jpg",
+            "Title":"BABYCARE",
+            "desc":"Understanding of human behaviour",
+            "small":"13 Feb, Sunday"
+        }
+    ],
+    
+    "lesson":[
+        {
+            "img":"lib/Images/yoga.jpg",
+            "Title":"BABYCARE",
+            "desc":"Understanding of human behaviour",
+            "small":"3 min"
+        },
+        {
+            "img":"lib/Images/yoga.jpg",
+            "Title":"BABYCARE",
+            "desc":"Understanding of human behaviour",
+            "small":"1 min"
+        }
+    ]
+}
+
